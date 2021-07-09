@@ -27,3 +27,40 @@
     cursor: pointer;
     width: 120px;
 }
+.categories{
+    margin: 50px auto;
+}
+.categories h1{
+    color: #fff;
+}
+
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px ;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.cat-1{
+    background: orange;
+}
+
+.cat-2{
+    background: orchid;
+}
+
+.cat-3{
+    background: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
