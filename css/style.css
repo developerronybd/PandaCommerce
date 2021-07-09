@@ -16,7 +16,9 @@
 .price{
     color: #FF136F;
 }
-
+.heading{
+    padding:30px;
+}
 
 .bye-now-button{
     background-image: linear-gradient(to bottom, #ff5898 0%, #FF136F 100% );
@@ -54,13 +56,32 @@
     background: blue;
 }
 
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px  #dddada;
+}
+
+
+#subscribe{
+    padding: 100px 0;
+    
+
+}
+
+#subscribe h6{
+    color: gray;
+}
 
 
 
+#subscribe ,input,  button{
+    margin: 10px auto;
+}
 
-
-
-
-
+footer{
+    text-align: center;
+    background: gray;
+    color: #f3f3f3;
+}
 
 
